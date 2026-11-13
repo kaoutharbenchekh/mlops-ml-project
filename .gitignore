@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 .env
+requirements-lock.txt
 
 # Jupyter
 .ipynb_checkpoints/
